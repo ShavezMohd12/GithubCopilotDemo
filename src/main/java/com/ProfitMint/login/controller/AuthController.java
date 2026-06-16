@@ -38,7 +38,7 @@ public class AuthController {
     }
 
     /**
-     * User signup endpoint.
+     * User signup endpt.
      *
      * @param request the signup request
      * @return the signup response
